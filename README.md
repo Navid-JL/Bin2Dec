@@ -2,7 +2,7 @@
 
 This Python program allows you to convert numbers between different bases. Whether you want to convert a decimal number to binary, or a hexadecimal number to octal, this program has got you covered.
 
-## Prerequisites
+## Requirements
 
 -   python = "^3.11"
 -   inquirer = "^3.1.3"
